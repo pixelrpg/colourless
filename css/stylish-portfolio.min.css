@@ -122,7 +122,7 @@ h6 {
     height: 100%;
     transition: all .4s ease 0s;
     transform: translateX(250px);
-    background: #1d809f;
+    background-color: rgba(52, 52, 52, 0.75);
     border-left: 1px solid rgba(255, 255, 255, .1)
 }
 
@@ -359,7 +359,7 @@ a:hover {
 }
 
 .bg-primary {
-    background-color: #1d809f!important
+    background-color: black!important
 }
 
 .text-primary {
