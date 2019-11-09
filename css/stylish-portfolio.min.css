@@ -375,3 +375,13 @@ a:hover {
 .text-secondary {
     color: #ecb807!important
 }
+
+.img-container {
+    text-align: center; 
+    display: block;
+}
+
+.img-container > img {
+    width: 50%;
+    height: auto;
+}
